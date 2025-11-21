@@ -28,9 +28,13 @@ Docker · CI/CD (basics) · AWS (learning path) · Kubernetes (learning)
 ---
 
 ## 📌 Current projects
+
 - **Full-stack Task Manager Application** → Full-stack application with Next.js (React + TypeScript + ChakraUI) + MongoDB
+
 - **Backend Bookmark API** → Backend API with Nest.js and PostgreSQL with Prisma ORM, CRUD, authentication
+
 - **Action Board API** → Backend API using FastAPI and PostgreSQL through SQLAlchemy, authentication, authorisation
+
 - **Full Stack Alerts Application** → Backend with Nest.js, frontend with Next.js, TailwindCSS, React Query, Clean Architecture
 
 > I’m focusing on high-impact, production-oriented learning projects.
