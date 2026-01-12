@@ -29,13 +29,43 @@ Docker · CI/CD (basics) · AWS (learning path) · Kubernetes (learning)
 
 ## 📌 Current projects
 
-- **Full-stack Task Manager Application** → Full-stack application with Next.js (React + TypeScript + ChakraUI) + MongoDB
+- **Full-stack Advanced Authentication Application**
 
-- **Backend Bookmark API** → Backend API with Nest.js and PostgreSQL with Prisma ORM, CRUD, authentication
+  → Full-stack application with advanced authentication functionalities: email confirmation, OAuth, Two Factor Authentication, Recaptcha
+    - Front: Next.js (React + TypeScript + ReactQuery + Shadcn + React Hook Form + Zod)
+    - Back: Nest.js (Node.js + TypeScript + Prisma + PostgreSQL + Redis + React Email)
 
-- **Action Board API** → Backend API using FastAPI and PostgreSQL through SQLAlchemy, authentication, authorisation
+  🔗 Repo: [https://github.com/alkingold/nest-next-advanced-auth](https://github.com/alkingold/nest-next-advanced-auth)
 
-- **Full Stack Alerts Application** → Backend with Nest.js, frontend with Next.js, TailwindCSS, React Query, Clean Architecture
+
+
+- **Full-stack Task Manager Application**
+
+  → Full-stack application with Next.js (React + TypeScript + ChakraUI) + MongoDB
+
+  🔗 Repo: [https://github.com/alkingold/react-next-typescript-mongo](https://github.com/alkingold/react-next-typescript-mongo)
+  
+
+- **Backend Bookmark API**
+
+  → Backend API with Nest.js and PostgreSQL with Prisma ORM, CRUD, authentication
+
+  🔗 Repo: [https://github.com/alkingold/NestJS-Prisma-project](https://github.com/alkingold/NestJS-Prisma-project)
+  
+
+- **Action Board API**
+
+  → Backend API using FastAPI and PostgreSQL through SQLAlchemy, authentication, authorisation
+
+  🔗 Repo: [https://github.com/alkingold/python-fastapi-sqlalchemy-redis](https://github.com/alkingold/python-fastapi-sqlalchemy-redis)
+  
+
+- **Full Stack Alerts Application**
+
+  → Backend with Nest.js, frontend with Next.js, TailwindCSS, React Query, Clean Architecture
+
+  🔗 Repo: [https://github.com/alkingold/nest-next-dynamodb](https://github.com/alkingold/nest-next-dynamodb)
+
 
 > I’m focusing on high-impact, production-oriented learning projects.
 
