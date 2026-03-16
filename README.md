@@ -29,6 +29,14 @@ Docker · CI/CD (basics) · AWS (learning path) · Kubernetes (learning)
 
 ## 📌 Current projects
 
+- **Performance Analytics Dashboard**
+
+  → Front-end data visualization project with functionalities to select and display data with graphs
+    - Front: Next.js (React + TypeScript + ReactQuery + Recharts + TailwindCSS)
+    - Back: Next.js api routes
+
+  🔗 Repo: [https://github.com/alkingold/performance-analytics-dashboard](https://github.com/alkingold/performance-analytics-dashboard)
+
 - **Full-stack Advanced Authentication Application**
 
   → Full-stack application with advanced authentication functionalities: email confirmation, OAuth, Two Factor Authentication, Recaptcha
@@ -36,7 +44,6 @@ Docker · CI/CD (basics) · AWS (learning path) · Kubernetes (learning)
     - Back: Nest.js (Node.js + TypeScript + Prisma + PostgreSQL + Redis + React Email)
 
   🔗 Repo: [https://github.com/alkingold/nest-next-advanced-auth](https://github.com/alkingold/nest-next-advanced-auth)
-
 
 
 - **Full-stack Task Manager Application**
